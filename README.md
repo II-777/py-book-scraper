@@ -1,7 +1,6 @@
 # Book Scraper
-## GoIT Python Web Scraping Project
 
-This Python script scrapes book information from the 'https://books.toscrape.com/' website and saves it to a CSV file.
+This Python script scrapes book information from the 'https://books.toscrape.com/' website and saves it to a CSV file. This is a result of the GoIT Python Web Scraping Marathon by [Yuriy Kuchma](https://github.com/Krabaton).
 
 ## Requirements
 
